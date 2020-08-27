@@ -30,7 +30,7 @@ a {
     border-right: 0.5px dotted rgb(167, 166, 166);
     background-color: #23364B;
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     transition-duration: 1s;
 }
@@ -193,8 +193,8 @@ a {
 }
 
 .row-2 img {
-    width: 350px;
-    height: 250px;
+    width: 80%;
+    overflow: hidden;
 }
 
 .col-4 {
@@ -295,5 +295,6 @@ a {
 }
 
 .sub-menu--image div > img {
-    width: 96%;
+    width: 80%;
+    overflow: hidden;
 }

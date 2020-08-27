@@ -256,9 +256,10 @@ a {
     display: flex;
     flex-direction: column;
     padding: 15px;
-    width: 30%;
+    width: 33.33%;
 }
-.sub-menu--blog div img {
+/* ---------- */
+.sub-menu--blog div > img {
     width: 90%;
     overflow: hidden;
 }
